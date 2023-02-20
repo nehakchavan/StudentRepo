@@ -47,10 +47,6 @@ public class Student {
 		this.roll_number = roll_number;
 	}
 	
-	public void setRoll_number(int roll_number) {
-		this.roll_number = roll_number;
-	}
-	
 	public String getName() {
 		return name;
 	}
