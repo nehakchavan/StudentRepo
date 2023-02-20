@@ -13,6 +13,7 @@ public class Student {
 	private int id;
 	private int roll_number;
 	private String name;
+	private String name;
 	private String email;
 	private String std;
 	
@@ -40,6 +41,10 @@ public class Student {
 
 	public int getRoll_number() {
 		return roll_number;
+	}
+	
+	public void setRoll_number(int roll_number) {
+		this.roll_number = roll_number;
 	}
 	
 	public void setRoll_number(int roll_number) {
