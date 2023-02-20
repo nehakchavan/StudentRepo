@@ -13,7 +13,7 @@ public class Student {
 	private int id;
 	private int roll_number;
 	private String name;
-	private String name;
+	
 	private String email;
 	private String std;
 	
